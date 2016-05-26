@@ -22,3 +22,6 @@ healthcheck-edgemicro-plugin:
       - oauth
 ```
 [More Details](http://docs.apigee.com/microgateway/latest/using-plugins)
+
+##License
+MIT
