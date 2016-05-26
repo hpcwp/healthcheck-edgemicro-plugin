@@ -7,6 +7,10 @@ To configure healthcheck for Edgemicro, you will need to create synthetic API pr
 ## Configuration
 
 ##### Plugin configuration
+```
+<EDGEMICRO_HOME>/plugins git clone https://github.com/mukundha/healthcheck-edgemicro-plugin/
+```
+##### Plugin configuration
 
 ```
 healthcheck-edgemicro-plugin:
