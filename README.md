@@ -13,7 +13,7 @@ healthcheck-edgemicro-plugin:
   path: /<healthcheck_path>
 ```
 
-#### Sequence Configuration
+##### Sequence Configuration
 
 ```
   plugins:

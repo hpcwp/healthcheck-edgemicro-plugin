@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mukundha@apigee.com",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mukundha/healthcheck-edgemicro-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mukundha/healthcheck-edgemicro-plugin/issues"
+  },
+  "homepage": "https://github.com/mukundha/healthcheck-edgemicro-plugin"
 }
