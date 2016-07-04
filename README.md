@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/hpcwp/healthcheck-edgemicro-plugin.png?label=ready&title=Ready)](https://waffle.io/hpcwp/healthcheck-edgemicro-plugin)
 ## About
 [Edgemicro](http://docs.apigee.com/microgateway/content/edge-microgateway-home) healthcheck [plugin](http://docs.apigee.com/microgateway/latest/using-plugins), that returns OK for a configured heartbeat path. 
 
